@@ -1,6 +1,6 @@
 # AlienInvasion
 
-Classic Space Invaders style game made on Python.
+Classic Space Invaders style game made using Pygame on Python.
 
 # What I Learned
 
