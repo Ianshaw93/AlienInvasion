@@ -1,0 +1,15 @@
+
+
+
+The following colour bar was intended to appear in the figure, it shows the occurrence of the emotions (i.e. log_count):
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIanshaw93%2Fm9SLwjRV2P.png?alt=media&token=3e399f63-d7f1-434f-ad79-e8ce0d40e3de)
+
+The figure is below which uses the x and y mean values for the circle centres; and the size of the circles are governed by the number of emotions with the particular log_count:
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIanshaw93%2F4Mp0BM5v0b.png?alt=media&token=ed304eb2-a2b3-4dbb-8cc1-74605ad593b8)
+
+Conclusions
+The largest circles are generally central; however pale in colour.
+
+The darkest circles are very small and are not generally central, they are located in the negative x; and therefore appear to be positive emotions.
+There are very few points that are located in the positive x; therfore the mean appear to be positve emotions.
+There is one outlier that is very close to the max positive x.
